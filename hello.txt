@@ -12,5 +12,5 @@ hello pangzuntao hello git!
 hello pangzuntao hello git!
 hello pangzuntao hello git!
 hello pangzuntao hello git!
-hello pangzuntao hello git!
-hello pangzuntao hello git!
+hello pangzuntao hello git! hot-fix.txt
+hello pangzuntao hello git! master.txt
